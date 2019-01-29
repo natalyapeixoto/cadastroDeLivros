@@ -7,6 +7,7 @@
 * HTML
 * JavaScript 
 * Node.js 
+* sqlite3
 
 
 ##### to run this project you must:
